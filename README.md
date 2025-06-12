@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="580" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*K2WLMTExLyida7OR.gif"  />
+  <img height="618" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*K2WLMTExLyida7OR.gif"  />
 </div>
 
 
